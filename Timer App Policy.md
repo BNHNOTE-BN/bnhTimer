@@ -8,7 +8,7 @@ We understand how important privacy is to you, which is why we are committed to 
 
 This Privacy Policy describes how we use, share, and protect information that we collect from you and your child through use of our non-commercial applications.
 
-This privacy policy governs your use of the iOS Mobile software application for iOS mobile devices that was created by nainghtaw@gmail.com. The Application allows users to practice educational and learning activities approved by the editorial and educational boards of Techplussolution.com.
+This privacy policy governs your use of the iOS Mobile software application for iOS mobile devices that was created by bnhnote@gmail.com. The Application allows users to practice educational and learning activities approved by the editorial and educational boards of Techplussolution.com.
 
 What information does the Application obtain and how is it used?
 

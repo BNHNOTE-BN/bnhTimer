@@ -4,11 +4,11 @@ Timer App Policy
 
 Introduction
 
-We understand how important privacy is to you, which is why we are committed to creating a safe and secure environment that  all ages can enjoy. As a not-for-profit public organization, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement Techplussolution.com’s mission.
+We understand how important privacy is to you, which is why we are committed to creating a safe and secure environment that  all ages can enjoy. As a not-for-profit public organization, our goal is to collect only the information about our users and their use of our services that will help us provide the best online experience possible and implement bnh’s mission.
 
 This Privacy Policy describes how we use, share, and protect information that we collect from you and your child through use of our non-commercial applications.
 
-This privacy policy governs your use of the iOS Mobile software application for iOS mobile devices that was created by bnhnote@gmail.com. The Application allows users to practice educational and learning activities approved by the editorial and educational boards of Techplussolution.com.
+This privacy policy governs your use of the iOS Mobile software application for iOS mobile devices that was created by bnhnote@gmail.com.
 
 What information does the Application obtain and how is it used?
 
